@@ -1,0 +1,10 @@
+
+MobilePhone/.idea/misc.xml
+MobilePhone/.idea/modules.xml
+MobilePhone/.idea/vcs.xml
+*.iml
+*.xml
+Banking/out/production/Banking/Bank.class
+Banking/out/production/Banking/Branch.class
+Banking/out/production/Banking/Customer.class
+Banking/out/production/Banking/Main.class
