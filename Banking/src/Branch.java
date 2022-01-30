@@ -34,7 +34,7 @@ public class Branch {
     }
     private Customer findCustomer(String name){
         for(int i=0;i<this.customers.size();i++){
-            if(this.customers.get(i).getName() == name){
+            if(this.customers.get(i).getName().equals(name)){
                 return this.customers.get(i);
             }
         }
